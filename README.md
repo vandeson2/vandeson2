@@ -43,7 +43,7 @@ Estoy motivado para contribuir en proyectos reales, seguir aprendiendo y crecer 
 
 ## 📫 Contacto
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <a href="www.linkedin.com/in/vandeson-sena-b151ab26b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vandeson2@gmail.com">
