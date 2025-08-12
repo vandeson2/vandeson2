@@ -1,20 +1,20 @@
 <h1 align="center">👋 ¡Hola! Soy Vandeson</h1>
 
-<h3 align="center">💻 Desarrollador Frontend Junior | 🎨 Apasionado por crear interfaces atractivas y funcionales</h3>
+<h3 align="center">💻 Desarrollador Frontend Junior | 🎨 Apasionado por crear experiencias web modernas y fáciles de usar</h3>
 
 ---
 
 ## 🧑‍💻 Sobre mí
-Soy desarrollador web recién graduado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente me estoy **especializando en el desarrollo Frontend**.  
-Me apasiona construir interfaces modernas, optimizadas y accesibles, cuidando tanto la experiencia de usuario como la calidad del código.  
-Mi objetivo es seguir creciendo como profesional mientras aporto valor en proyectos reales.
+Soy un **Desarrollador Frontend Junior** recién graduado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente me estoy **especializando en tecnologías modernas de frontend**.  
+Me encanta convertir ideas en interfaces limpias, funcionales y visualmente atractivas, siempre poniendo énfasis en el **rendimiento, la accesibilidad y la experiencia del usuario**.  
+Estoy motivado para contribuir en proyectos reales, seguir aprendiendo y crecer profesionalmente como parte de un equipo colaborativo.
 
 ---
 
 ## 📚 Actualmente aprendiendo
-- ⚛️ **React**  
-- 📜 **JavaScript avanzado**  
-- 🎨 **Tailwind CSS**
+- ⚛️ **React** — arquitectura basada en componentes y hooks  
+- 📜 **JavaScript avanzado** — características ES6+ y buenas prácticas  
+- 🎨 **Tailwind CSS** — diseño responsivo y basado en utilidades
 
 ---
 
@@ -36,8 +36,8 @@ Mi objetivo es seguir creciendo como profesional mientras aporto valor en proyec
 ---
 
 ## 🚀 Proyectos
-- **[Sistema de reservas](https://github.com/vandeson2/Sistema-de-reservas)** — React + Tailwind CSS + Firebase  
-- **GoDrive Tools** — Aplicación web desarrollada en **Go** utilizando la **Google Drive API** para gestionar archivos y generar calendarios en Excel, creada como parte de mis prácticas profesionales.
+- **[Sistema de reservas](https://github.com/vandeson2/Sistema-de-reservas)** — Construido con **React**, **Tailwind CSS** y **Firebase**. Sistema responsive para gestión de reservas con autenticación y UI dinámica.  
+- **GoDrive Tools** — Aplicación web desarrollada en **Go** usando la **API de Google Drive** para gestionar archivos y generar calendarios en Excel, desarrollada durante mis prácticas profesionales.
 
 ---
 
@@ -46,13 +46,15 @@ Mi objetivo es seguir creciendo como profesional mientras aporto valor en proyec
   <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="vandeson2@gmail.com">
+  <a href="mailto:vandeson2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-💡 *Actualmente: Mejorando mis habilidades en React y Tailwind CSS mientras me especializo en Frontend.*
+💡 *Actualmente: Mejorando mis habilidades en React y Tailwind CSS mientras construyo una base sólida en desarrollo frontend moderno.*
+
 <p align="center">
-    <a href="README.en.md">🇬🇧 Read in English</a>
+  <a href="README.en.md">🇬🇧 Read in English</a>
 </p>
+
