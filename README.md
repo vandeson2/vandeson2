@@ -1,4 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Vandeson</h1>
+<p align="center">
+  <a href="README.en.md">🇬🇧 Read in English</a>
+</p>
 
 <h3 align="center">💻 Desarrollador Frontend Junior | 🎨 Apasionado por crear experiencias web modernas y fáciles de usar</h3>
 
@@ -54,7 +57,4 @@ Estoy motivado para contribuir en proyectos reales, seguir aprendiendo y crecer 
 ---
 💡 *Actualmente: Mejorando mis habilidades en React y Tailwind CSS mientras construyo una base sólida en desarrollo frontend moderno.*
 
-<p align="center">
-  <a href="README.en.md">🇬🇧 Read in English</a>
-</p>
 
