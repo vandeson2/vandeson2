@@ -4,56 +4,58 @@
   <a href="README.md">🇪🇸 Leer en Español</a>
 </p>
 
-<h3 align="center">💻 Junior Frontend Developer | 🎨 Passionate about building modern, user-friendly web experiences</h3>
+### Junior Data Analyst & Full Stack Developer | MSc Data Science & AI Student 📊 💻
+
+I am a technology enthusiast with a solid background in web development, currently specializing in the world of data. My approach combines the technical capability to build modern applications with the analytical mindset required to transform raw data into strategic business decisions.
 
 ---
 
-## 🧑‍💻 About Me
-I am a **Junior Frontend Developer** with a recent degree in **Web Application Development (DAW)**, currently **specializing in modern frontend technologies**.  
-I enjoy turning ideas into clean, functional, and visually appealing interfaces — always focusing on **performance, accessibility, and user experience**.  
-I’m eager to contribute to real-world projects, keep improving my skills, and grow as part of a collaborative development team.
+### 🛠️ My Tech Stack
+
+**Data Science & Analysis:**
+- 🐍 **Python:** Pandas, NumPy, Matplotlib, Seaborn.
+- 🗄️ **Databases:** MySQL, PostgreSQL, SQL Server (Data Modeling & ETL/ELT).
+- 📈 **Tools:** Jupyter Notebooks, Data Wrangling, Exploratory Data Analysis (EDA).
+
+**Full Stack Development:**
+- ⚛️ **Frontend:** React.js, JavaScript, Tailwind CSS, HTML5/CSS3.
+- ⚙️ **Backend & Tools:** Go, Java, Firebase, Git/GitHub.
 
 ---
 
-## 📚 Currently Learning
-- ⚛️ **React** — component-based architecture & hooks  
-- 📜 **Advanced JavaScript** — ES6+ features & best practices  
-- 🎨 **Tailwind CSS** — utility-first responsive design
+### 🚀 Featured Projects (Data Focus)
+
+#### 🛒 [Brazilian E-Commerce ELT Pipeline](https://github.com/vandeson2/brazilian-ecommerce-elt-pipeline)
+Professional data pipeline implementation using the Olist dataset.
+- **Key Achievements:** Designed a **Star Schema** to normalize +100k records and developed specialized SQL views to automate business KPI reporting.
+- **Tech:** SQL, MySQL, Data Modeling.
+
+#### 📊 [Bangkok Airbnb Analysis](https://github.com/vandeson2/bangkok_airbnb_analysis)
+Deep exploratory analysis of the short-term rental market in Thailand.
+- **Key Achievements:** Complex data processing (THB currency conversion, null handling), post-COVID recovery pattern identification, and market insight visualization.
+- **Tech:** Python, Pandas, Seaborn, Matplotlib.
+
+#### 🏋️‍♂️ [Gym Management System](https://github.com/vandeson2/Sistema-de-reservas)
+Full Stack application for fitness center administration.
+- **Key Achievements:** Developed a reactive UI and business logic for customer management and class scheduling.
+- **Tech:** React, Tailwind CSS, Firebase.
 
 ---
 
-## 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+### 🎓 Education & Certifications
+- **MSc in Data Science & Artificial Intelligence:** Currently enrolled (Focusing on ML, Big Data, and Advanced Analytics).
+- **Vocational Training:** Web Application Development
+MEDAC Institute
+
+---
+
+### 📫 Let's Connect!
+- **Portfolio:** [vandesondev.vercel.app](https://vandesondev.vercel.app)
+- **LinkedIn:** [https://www.linkedin.com/in/vandeson-sena/]
+- **Email:** vandeson2@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vandeson2&show_icons=true&theme=tokyonight&hide_border=true" alt="Vandeson Stats" />
 </p>
-
----
-
-## 🚀 Projects
-- **[Booking System](https://github.com/vandeson2/Sistema-de-reservas)** — Built with **React**, **Tailwind CSS**, and **Firebase**. A responsive reservation management system with authentication and dynamic UI.  
-- **GoDrive Tools** — A **Go** web application using the **Google Drive API** to manage files and generate Excel calendars, developed during my professional internship.
-
----
-
-## 📫 Contact
-<p align="left">
-  <a href="https://www.linkedin.com/in/vandeson-sena-b151ab26b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vandeson2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-💡 *Currently: Improving my React and Tailwind CSS skills while building a strong foundation in modern frontend development.*
