@@ -36,7 +36,7 @@ Análisis exploratorio profundo sobre el mercado de alojamientos en Tailandia.
 - **Lo que hice:** Procesamiento de datos complejos (precios en THB, valores nulos), identificación de patrones de recuperación post-COVID y visualización de insights de mercado.
 - **Tecnologías:** Python, Pandas, Seaborn, Matplotlib.
 
-#### 🏋️‍♂️ [Sistema de Gestión de Reservas](https://github.com/vandeson2/gym-management-system)
+#### 🏋️‍♂️ [Sistema de Gestión de Reservas](https://github.com/vandeson2/Sistema-de-reservas)
 Aplicación Full Stack para la gestión de gimnasios.
 - **Lo que hice:** Desarrollo de interfaz de usuario reactiva y lógica de negocio para la gestión de clientes y clases.
 - **Tecnologías:** React, Tailwind CSS, Firebase.
@@ -48,17 +48,11 @@ Aplicación Full Stack para la gestión de gimnasios.
 - **Desarrollador Full Stack:** Bootcamp / Autodidacta con proyectos en producción.
 
 ---
-## 📫 Contacto
-<p align="left">
-  <a href="https://www.linkedin.com/in/vandeson-sena-b151ab26b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vandeson2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📫 Contacto
+- **Portafolio:** [vandesondev.vercel.app](https://vandesondev.vercel.app)
+- **LinkedIn:** [https://www.linkedin.com/in/vandeson-sena/]
+- **Email:** vandeson2@gmail.com
 
 ---
-💡 *Actualmente: Mejorando mis habilidades en React y Tailwind CSS mientras construyo una base sólida en desarrollo frontend moderno.*
 
 
