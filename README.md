@@ -45,12 +45,12 @@ Aplicación Full Stack para la gestión de gimnasios.
 
 ### 🎓 Formación & Certificaciones
 - **Máster en Data Science e IA:** En curso (Enfocado en ML, Big Data y Análisis Avanzado).
-- **Desarrollador Full Stack:** Bootcamp / Autodidacta con proyectos en producción.
+- **Desarrollo de Aplicaciones Web:** Instituto de Formación Profesional MEDAC.
 
 ---
 ### 📫 Contacto
 - **Portafolio:** [vandesondev.vercel.app](https://vandesondev.vercel.app)
-- **LinkedIn:** [https://www.linkedin.com/in/vandeson-sena/]
+- **LinkedIn:** [https://www.linkedin.com/in/vandeson-sena/](https://github.com/vandeson2/Sistema-de-reservas)
 - **Email:** vandeson2@gmail.com
 
 ---
